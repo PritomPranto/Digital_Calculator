@@ -1,6 +1,7 @@
 package oopproject1;
 import javax.swing.JOptionPane;
 public class BMI {
+    
     {
 
         String W = JOptionPane.showInputDialog(null,"Enter Your Weight(KG): ", "BMI",JOptionPane.PLAIN_MESSAGE);
@@ -35,4 +36,5 @@ public class BMI {
 
 
     }
+    
 }
